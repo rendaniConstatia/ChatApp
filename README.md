@@ -25,8 +25,5 @@ npm start
 
 ## Author
 
-**germancutraro**
+**Rendani murokolo**
 
-## Why
-
-* Practise
